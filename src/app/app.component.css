@@ -1,0 +1,41 @@
+.container {
+  margin-top: 30px;
+}
+input.ng-invalid.ng-touched {
+  border: 1px solid red;
+}
+.inc {
+  background-color: rgb(216, 81, 81);
+
+  padding-right: 30px;
+  padding-left: 30px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+
+  font-size: 50px;
+  border-color: rgb(223, 91, 91);
+  color: white;
+}
+.dec {
+  padding-right: 30px;
+  padding-left: 30px;
+  background-color: white;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  font-size: 50px;
+  border-color: rgb(223, 91, 91);
+  color: brown;
+  margin: 0%;
+}
+.number-display {
+  cursor: default;
+  border-left: none;
+  border-right: none;
+  padding-right: 30px;
+  padding-left: 30px;
+
+  background-color: rgb(236, 216, 213);
+  font-size: 50px;
+  border-color: rgb(223, 91, 91);
+  color: brown;
+}
